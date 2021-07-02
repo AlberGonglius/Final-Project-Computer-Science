@@ -1,3 +1,1 @@
-
-Alberto José Mendoza Peñaloza - 201716599
-
+Computer Science Lab Final project with C++ and Python, Pendulum Simulations. Check Results in Pngs and gifs
